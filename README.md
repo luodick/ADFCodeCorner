@@ -1,4 +1,0 @@
-ADFCodeCorner
-=============
-
-ADF Code Corner
